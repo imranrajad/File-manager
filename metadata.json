@@ -1,0 +1,6 @@
+{
+  "name": "You B Tech",
+  "description": "Premium tech and electronics shopping mobile app with product browsing, real-time filters, search, wishlist, cart, secure checkout, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
